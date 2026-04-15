@@ -56,6 +56,7 @@ Inference: Policies are influencing new prescribing behavior.
 [![images/average_biosimilar_new_start_rate.png](images/average_biosimilar_new_start_rate.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/988b8f68690bc5ce24c9?experience=power-bi)
 
 Fact 7: The top 1% is almost entirely originator driven with biosimilars accounting for a minute 1.56% of the total 1% spend.
+
 Inference: High-cost claimants are not switching.
 
 [![images/biosimilar_portion_of_top_one_pct_spend.png](images/biosimilar_portion_of_top_one_pct_spend.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/03ce6e101391496ffe28?experience=power-bi)
