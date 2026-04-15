@@ -7,7 +7,7 @@ DATA STRUCTURE
 The dataset covers one year, so it’s focused on intra-year trends and cross-sectional analysis, including month-over-month variation, cost concentration and biosimilar adoption patterns.
 The REgain database structure is depicted below having the following tables: claims, clients, drug_master, industries, member_specialty-drug, members, MemberAnnualSpend, client_annual_trend etc.
 
-![ERD](images/erd.png)
+![ERD](images/ERD.png)
 
 
 EXECUTIVE SUMMARY
