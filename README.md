@@ -11,7 +11,7 @@ REgain, a pharmacy benefits manager established in 2022, seeks to make sense of 
 
 --how much of the total specialty drug spend can be attributed to biosimilars?
 
---are our high cost tier patients switching members to biosimilars from originators?
+--are our high cost members being progressively switched to biosimilars from originator biologics?
 
 ## DATA STRUCTURE ##
 
