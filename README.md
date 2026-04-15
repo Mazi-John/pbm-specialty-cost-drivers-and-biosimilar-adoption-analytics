@@ -32,7 +32,7 @@ COST CONCENTRATION INSIGHTS (Who is driving spend?)
 Fact 3: There’s extreme (greater than normal) cost concentration in the top 1% who wield 54% ($22.85m) of total spend.
 Inference: Cost risk is highly concentrated in a very small population.
 
-
+[![images/top_1%_portion_of_total_spend.png](images/top_1%_portion_of_total_spend.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/988b8f68690bc5ce24c9?experience=power-bi)
 
 Fact 4: The top 1% spend is disproportionately tied to specialty molecules. For example, adalimumab accounts for $8.6m alone within the top 1% which has a total of $22.85m.
 Inference 1: The same molecules that are driving the total spend are also driving high-cost claimant spend. Therefore, targeted interventions will lead to a high ROI and broad policies will be inefficient.
