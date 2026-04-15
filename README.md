@@ -99,21 +99,17 @@ Biosimilar strategies are working at initiation but not at the legacy population
 
 ## RECOMMENDATIONS ##
 
-Since specialty drugs dominate over 70% of total spend, specialty program management should be prioritized rather than broad formulary tightening. Further, analytics and interventions should be focused on biologics, auto-immune therapies and oncology.
+1. Since specialty drugs dominate over 70% of total spend, *specialty program management* should be prioritized rather than broad formulary tightening and further, analytics and interventions should be focused on biologics, auto-immune therapies and oncology drugs.
 
-To reduce the effects of one molecule acting as a systemic cost driver, create a molecule-specific strategy that incorporates a biosimilar-first policy, prior authorization tightening and step therapy protocols.
+2. To reduce the effects of one molecule acting as a systemic cost driver, create a *molecule-specific strategy* that incorporates a biosimilar-first policy, prior authorization tightening and step therapy protocols. Start with Adalimumab and expand to eternacept and infliximab.
 
-To tackle the high cost-concentration in the total spend and in the 1% driven largely by one drug, implement high-cost claimant management through case-by-case management; adherence monitoring; and site of care optimization. This can be achieved by identifying 100 -500 members and reviewing their therapy pathways.
+3. To tackle the high cost-concentration in the total spend and in the 1% driven largely by one drug, implement *high-cost claimant management* through case-by-case management, adherence monitoring, therapy optimisation, adherence review and site of care optimization. This can be achieved by identifying 100 -500 members and reviewing their therapy pathways.
 
-Target legacy switching (highest ROI):- The focus should be on the top 1% claimants and Adalimumab users. Physicians who prescribe them should be reached out to; mandatory switching should be enforced where applicable; and incentives should be created for switching.
+4. Target legacy switching (highest ROI):- The focus should be on the top 1% claimants and Adalimumab users. Physicians who prescribe them should be reached out to, mandatory switching should be enforced where applicable, and incentives should be created for switching.
 
-Biosimilar-first policy should be strengthened with a goal to increasing new-start rate from 34% to 70% by restricting originator coverage; require step therapy; and enforce prior authorization.
+5. Biosimilar-first policy should be strengthened with a goal to increasing new-start rate from 34% to 70% by restricting originator coverage, requiring step therapy and enforcing prior authorization.
 
-Focus on high-cost claimant management for members >$50k/year through case management, therapy optimization and adherence review
-
-Implement molecule-level strategy: - start with Adalimumab, expand to eternacept and infliximab
-
-Client specific targeting: - identify high risk employers; tailor interventions; and adjust funding strategy
+6. Client specific targeting:- identify high risk employers, tailor interventions and adjust funding strategy
 
 ## ASSUMPTION(S)
 
