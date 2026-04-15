@@ -26,6 +26,8 @@ Inference: Specialty drugs are a primary cost driver, not traditional retail dru
 Fact 2: Spending is heavily concentrated on one molecule- Adalimumab – which has a net spend of $11.9m (~28% of total spend).
 Inference: One molecule acts as a systemic cost driver
 
+[![images/adalimumab_portion_of_total_spend.png](images/adalimumab_portion_of_total_spend.png](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/03ce6e101391496ffe28?experience=power-bi)
+
 COST CONCENTRATION INSIGHTS (Who is driving spend?)
 Fact 3: There’s extreme (greater than normal) cost concentration in the top 1% who wield 54% ($22.85m) of total spend.
 Inference: Cost risk is highly concentrated in a very small population.
