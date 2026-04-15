@@ -17,7 +17,7 @@ REgain, a pharmacy benefits manager established in 2022, seeks to make sense of 
 
 The dataset covers the year 2024, so it’s focused on intra-year trends and cross-sectional analysis, including month-over-month variation, cost concentration and biosimilar adoption patterns.
 The REgain database structure is depicted below having the following tables: 
-claims: provides the members etc
+claims: fact table with
 clients, drug_master, industries, member_specialty-drug, members, MemberAnnualSpend, client_annual_trend etc.
 
 ![ERD](images/ERD.png)
