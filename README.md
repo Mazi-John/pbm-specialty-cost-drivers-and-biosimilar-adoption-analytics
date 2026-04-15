@@ -3,9 +3,9 @@ SQL and Power BI analysis of pharmacy claims data to identify specialty drug cos
 
 ## BACKGROUND ##
 
-REgain, a pharmacy benefits manager established in 2022, seeks to make sense of its data on originator biologics and the biosimilars that have trailed them. REgain has made recent efforts to ensure the increasing use of biosimilars in the stead of originator specialty drugs and the company executives especially the chief financial officer and the director of clinical operations would like to receive feedback on how well their interventions have fared and gain insights regarding further changes that may be required. They seek, among other requirements, to understand the following questions:
+REgain, a pharmacy benefits manager established in 2022, seeks to make sense of its data on originator biologics and the biosimilars that have trailed them. REgain has made recent efforts to ensure the increasing adoption of biosimilars as replacement for originator specialty drugs and the company executives especially the chief financial officer and the director of clinical operations would like to receive feedback on how well the company's biosimilar adoption interventions have fared and gain insights regarding further changes that may be required. They seek to understand the biosimilar adoption rate, the new-start biosimilar adoption, molecules that carry most of the expenditure among other requirements and to get answers to the following questions:
 
---how well are we doing with putting patients on biosimilars when they start therapy?
+--how well are prescribers doing with putting members on biosimilars when they start therapy?
 
 --are physicians still initiating originators?
 
@@ -15,7 +15,7 @@ REgain, a pharmacy benefits manager established in 2022, seeks to make sense of 
 
 ## DATA STRUCTURE ##
 
-The dataset covers one year, so it’s focused on intra-year trends and cross-sectional analysis, including month-over-month variation, cost concentration and biosimilar adoption patterns.
+The dataset covers the year 2024, so it’s focused on intra-year trends and cross-sectional analysis, including month-over-month variation, cost concentration and biosimilar adoption patterns.
 The REgain database structure is depicted below having the following tables: 
 claims: provides the members etc
 clients, drug_master, industries, member_specialty-drug, members, MemberAnnualSpend, client_annual_trend etc.
