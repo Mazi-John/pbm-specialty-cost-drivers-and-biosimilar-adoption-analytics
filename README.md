@@ -5,13 +5,13 @@ SQL and Power BI analysis of pharmacy claims data to identify specialty drug cos
 
 REgain, a pharmacy benefits manager established in 2022, seeks to make sense of its data on originator biologics and the biosimilars that have trailed them. REgain has made recent efforts to ensure the increasing adoption of biosimilars as replacement for originator specialty drugs and the company executives especially the chief financial officer and the director of clinical operations would like to receive feedback on how well the company's biosimilar adoption interventions have fared and gain insights regarding further changes that may be required. They seek to understand the biosimilar adoption rate, the new-start biosimilar adoption, molecules that carry most of the expenditure among other requirements and to get answers to the following questions:
 
---how well are prescribers doing with putting members on biosimilars when they start therapy?
+- how well are prescribers doing with putting members on biosimilars when they start therapy?
 
---are physicians still initiating originators?
+- are physicians still initiating originators?
 
---how much of the total specialty drug spend can be attributed to biosimilars?
+- how much of the total specialty drug spend can be attributed to biosimilars?
 
---are our high cost claimants being progressively switched to biosimilars from originator biologics?
+- are our high cost claimants being progressively switched to biosimilars from originator biologics?
 
 ## DATA STRUCTURE ##
 
