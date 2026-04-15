@@ -89,11 +89,13 @@ Inference: High-cost claimants are not switching.
 
 Inference Summary
 
-Biosimilar strategies are working at initiation but not at the legacy population level. Since originator biologics are concentrated on high-cost claimants, current savings are limited despite improving new start adoption. In other words,
+Biosimilar strategies are working at initiation but not at the legacy population level. Since originator biologics are concentrated on high-cost claimants, current savings are limited despite improving new start adoption. In other words:
 
-Theres a shot vs long term savings gap because new-start savings are not leading to future savings and legacy patients are responsible for the current cost-burden.
-There’s a high concentration risk in the top 1% of members because they account for 54% of the total spend, hence, financial volatility risk is very high.
-There is a molecule dependency risk due to a heavy reliance on Adalimumab, therefore, any price shift will impact the entire plan
+1. There's a shot vs long term savings gap because new-start savings are not leading to future savings and legacy patients are responsible for the current cost-burden.
+
+2. There’s a high concentration risk in the top 1% of members because they account for 54% of the total spend, hence, financial volatility risk is very high.
+
+3. There is a molecule dependency risk due to a heavy reliance on Adalimumab, therefore, any price shift will impact the entire plan.
 
 ## RECOMMENDATIONS ##
 
