@@ -5,7 +5,7 @@ SQL and Power BI analysis of pharmacy claims data to identify specialty drug cos
 
 REgain, a pharmacy benefits manager established in 2001, seeks to make sense of its data since the advent of originator biologics and the biosimilars that have trailed them. REgain has made recent efforts to ensure the increasing use of biosimilars in the stead of originator specialty drugs and would like to receive feedback on how well their interventions have fared and gain insights regarding further changes that may be required.
 
-# DATA STRUCTURE #
+## DATA STRUCTURE ##
 
 The dataset covers one year, so it’s focused on intra-year trends and cross-sectional analysis, including month-over-month variation, cost concentration and biosimilar adoption patterns.
 The REgain database structure is depicted below having the following tables: claims, clients, drug_master, industries, member_specialty-drug, members, MemberAnnualSpend, client_annual_trend etc.
