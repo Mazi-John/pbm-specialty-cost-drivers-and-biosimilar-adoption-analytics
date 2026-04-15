@@ -43,7 +43,11 @@ Inference 2: High-cost members are chronic biologics users and long-term therapy
 [![images/adalimumab_portion_of_top_one_pct_claimants.png](images/adalimumab_portion_of_top_one_pct_claimants.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/03ce6e101391496ffe28?experience=power-bi)
 
 BIOSIMILAR ADOPTION INSIGHTS (Are biosimilars increasingly replacing originator biologics?)
+
 Fact 5: There was moderate overall biosimilar adoption with biosimilars accounting for 27.5% ($8.5m) of total specialty drug spend ($30.84m) representing 19.9% of total spend. Inference: Biosimilar adoption exists but is not dominant.
+
+[![images/biosimilar_portion_of_total_specialty_drug_spend.png](images/biosimilar_portion_of_total_specialty_drug_spend.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/18a8c87eecf6dcc39f8a?experience=power-bi)
+
 Fact 6: New start biosimilar adoption rate (33.7%) is stronger than overall biosimilar penetration (27.5%).
 Inference: Policies are influencing new prescribing behavior.
 
