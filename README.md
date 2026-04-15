@@ -24,7 +24,7 @@ Pharmacy spend is highly concentrated with specialty drugs driving most of the c
 
 COST STRUCTURE INSIGHTS (What is driving spend?)
 
-Fact 1: Specialty drugs dominate the total spend, accounting for $30.84m of a total of $42.58m, representing 72.4% of total spend.
+## Fact 1: Specialty drugs dominate the total spend, accounting for $30.84m of a total of $42.58m, representing 72.4% of total spend.
 
 Inference: Specialty drugs are a primary cost driver, not traditional retail drugs.
 
