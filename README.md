@@ -12,7 +12,8 @@ ERD
 EXECUTIVE SUMMARY
 Pharmacy spend is highly concentrated with specialty drugs driving most of the costs. While biosimilar adoption is moderate overall and improving among new starts, the top 1% remain concentrated on originator biologics, limiting near term cost savings.
 
-Dashboard
+
+[![Dashboard](images/dashboard_overview.png)](https://app.powerbi.com/groups/me/dashboards/29181355-eb6e-41b6-a0f8-ce0fc6703299?experience=power-bi)
 
 INSIGHTS DEEP DIVE
 COST STRUCTURE INSIGHTS (What is driving spend?)
