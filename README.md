@@ -21,6 +21,8 @@ COST STRUCTURE INSIGHTS (What is driving spend?)
 Fact 1: Specialty drugs dominate the total spend, accounting for $30.84m of a total of $42.58m, representing 72.4% of total spend.
 Inference: Specialty drugs are a primary cost driver, not traditional retail drugs.
 
+[![images/specialty_drug_portion_of_total_spend.png](images/specialty_drug_portion_of_total_spend.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/c2d46dcd2b6eaa9b5b37?experience=power-bi)
+
 Fact 2: Spending is heavily concentrated on one molecule- Adalimumab – which has a net spend of $11.9m (~28% of total spend).
 Inference: One molecule acts as a systemic cost driver
 
