@@ -50,8 +50,10 @@ Fact 5: There was moderate overall biosimilar adoption with biosimilars accounti
 
 [![images/biosimilar_portion_of_total_spend.png](images/biosimilar_portion_of_total_spend.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/18a8c87eecf6dcc39f8a?experience=power-bi)
 
-Fact 6: New start biosimilar adoption rate (33.7%) is stronger than overall biosimilar penetration (27.5%).
+Fact 6: New start biosimilar adoption rate (33.7%) is stronger than overall biosimilar penetration (27.45%).
 Inference: Policies are influencing new prescribing behavior.
+
+
 
 Fact 7: The top 1% is almost entirely originator driven with biosimilars accounting for a minute 1.56% of the total 1% spend.
 Inference: High-cost claimants are not switching.
