@@ -7,7 +7,8 @@ DATA STRUCTURE
 The dataset covers one year, so it’s focused on intra-year trends and cross-sectional analysis, including month-over-month variation, cost concentration and biosimilar adoption patterns.
 The REgain database structure is depicted below having the following tables: claims, clients, drug_master, industries, member_specialty-drug, members, MemberAnnualSpend, client_annual_trend etc.
 
-ERD
+![ERD](images/erd.png)
+
 
 EXECUTIVE SUMMARY
 Pharmacy spend is highly concentrated with specialty drugs driving most of the costs. While biosimilar adoption is moderate overall and improving among new starts, the top 1% remain concentrated on originator biologics, limiting near term cost savings.
