@@ -30,7 +30,7 @@ Pharmacy spend is highly concentrated with specialty drugs driving 72.4% of the 
 
 [![Dashboard](images/dashboard_overview.png)](https://app.powerbi.com/groups/me/dashboards/29181355-eb6e-41b6-a0f8-ce0fc6703299?experience=power-bi)
 
-## INSIGHTS DEEP DIVE 
+## INSIGHTS DETAIL 
 
 COST STRUCTURE INSIGHTS (What is driving spend?)
 
