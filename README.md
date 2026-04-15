@@ -1,11 +1,11 @@
 # pbm-specialty-cost-drivers-and-biosimilar-adoption-analytics
 SQL and Power BI analysis of pharmacy claims data to identify specialty drug cost drivers, quantify high-cost claimant concentration, and evaluate biosimilar adoption in a simulated PBM setting.
 
-BACKGROUND
+##BACKGROUND##
 
 REgain, a pharmacy benefits manager established in 2001, seeks to make sense of its data since the advent of originator biologics and the biosimilars that have trailed them. REgain has made recent efforts to ensure the increasing use of biosimilars in the stead of originator specialty drugs and would like to receive feedback on how well their interventions have fared and gain insights regarding further changes that may be required.
 
-DATA STRUCTURE
+#DATA STRUCTURE#
 
 The dataset covers one year, so it’s focused on intra-year trends and cross-sectional analysis, including month-over-month variation, cost concentration and biosimilar adoption patterns.
 The REgain database structure is depicted below having the following tables: claims, clients, drug_master, industries, member_specialty-drug, members, MemberAnnualSpend, client_annual_trend etc.
@@ -13,7 +13,7 @@ The REgain database structure is depicted below having the following tables: cla
 ![ERD](images/ERD.png)
 
 
-EXECUTIVE SUMMARY
+--EXECUTIVE SUMMARY--
 
 Pharmacy spend is highly concentrated with specialty drugs driving most of the costs. While biosimilar adoption is moderate overall and improving among new starts, the top 1% remain concentrated on originator biologics, limiting near term cost savings.
 
