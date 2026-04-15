@@ -3,19 +3,26 @@ SQL and Power BI analysis of pharmacy claims data to identify specialty drug cos
 
 ## BACKGROUND ##
 
-REgain, a pharmacy benefits manager established in 2001, seeks to make sense of its data since the advent of originator biologics and the biosimilars that have trailed them. REgain has made recent efforts to ensure the increasing use of biosimilars in the stead of originator specialty drugs and would like to receive feedback on how well their interventions have fared and gain insights regarding further changes that may be required.
+REgain, a pharmacy benefits manager established in 2022, seeks to make sense of its data on originator biologics and the biosimilars that have trailed them. REgain has made recent efforts to ensure the increasing use of biosimilars in the stead of originator specialty drugs and the company executives especially the chief financial officer and the director of clinical operations would like to receive feedback on how well their interventions have fared and gain insights regarding further changes that may be required. They seek, among other requirements, to understand the following questions:
+
+--how well are we doing with putting patients on biosimilars when they start therapy?
+--are physicians still initiating originators?
+--how much of the total specialty drug spend can be attributed to biosimilars?
+--are our high cost tier patients switching members to biosimilars from originators?
 
 ## DATA STRUCTURE ##
 
 The dataset covers one year, so it’s focused on intra-year trends and cross-sectional analysis, including month-over-month variation, cost concentration and biosimilar adoption patterns.
-The REgain database structure is depicted below having the following tables: claims, clients, drug_master, industries, member_specialty-drug, members, MemberAnnualSpend, client_annual_trend etc.
+The REgain database structure is depicted below having the following tables: 
+claims: provides the members etc
+clients, drug_master, industries, member_specialty-drug, members, MemberAnnualSpend, client_annual_trend etc.
 
 ![ERD](images/ERD.png)
 
 
 ## EXECUTIVE SUMMARY ##
 
-Pharmacy spend is highly concentrated with specialty drugs driving most of the costs. While biosimilar adoption is moderate overall and improving among new starts, the top 1% remain concentrated on originator biologics, limiting near term cost savings.
+Pharmacy spend is highly concentrated with specialty drugs driving 72.4% of the costs with originator biologics, especially Adalimumab, having a prominent share. While biosimilar adoption or penetration is moderate overall (27.47%) and improving among new starts (33.73%), the top 1% remain concentrated on originator biologics, limiting near term cost savings.
 
 
 [![Dashboard](images/dashboard_overview.png)](https://app.powerbi.com/groups/me/dashboards/29181355-eb6e-41b6-a0f8-ce0fc6703299?experience=power-bi)
@@ -39,24 +46,24 @@ Inference: One molecule acts as a systemic cost driver
 
 COST CONCENTRATION INSIGHTS (Who is driving spend?) 
 
-Fact 3: There’s extreme (greater than normal) cost concentration in the top 1% who wield 54% ($22.85m) of total spend.
+Fact 3: There’s extreme cost concentration in the top 1% who wield 54% ($22.85m) of total spend.
 
 Inference: Cost risk is highly concentrated in a very small population.
 
 [![images/Top_one_pct_claimant_portion_of_total_spend.png](images/Top_one_pct_claimant_portion_of_total_spend.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/988b8f68690bc5ce24c9?experience=power-bi)
 
-Fact 4: The top 1% spend is disproportionately tied to specialty molecules. For example, adalimumab accounts for $8.6m alone within the top 1% which has a total of $22.85m.
+Fact 4: The top 1% spend is disproportionately tied to specialty molecules. For example, adalimumab alone accounts for $8.6m within the top 1% which has a total spend of $22.85m.
 
-Inference 1: The same molecules that are driving the total spend are also driving high-cost claimant spend. Therefore, targeted interventions will lead to a high ROI and broad policies will be inefficient.
+Inference 1: The same molecules that are driving the total spend are also driving high-cost claimant spend. Therefore, targeted interventions will lead to a high ROI and broad policies will likely be inefficient.
 
-Inference 2: High-cost members are chronic biologics users and long-term therapy patients.
+Inference 2: High-cost members are mostly biologics users.
 
 [![images/adalimumab_portion_of_top_one_pct_claimants.png](images/adalimumab_portion_of_top_one_pct_claimants.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/03ce6e101391496ffe28?experience=power-bi)
 
 
 BIOSIMILAR ADOPTION INSIGHTS (Are biosimilars increasingly replacing originator biologics?)
 
-Fact 5: There was moderate overall biosimilar adoption with biosimilars accounting for 27.5% ($8.5m) of total specialty drug spend ($30.84m) representing 19.9% of total spend. 
+Fact 5: There was moderate overall biosimilar penetration with biosimilars accounting for 27.5% ($8.5m) of total specialty drug spend ($30.84m) and representing 19.9% of total spend. 
 
 Inference: Biosimilar adoption exists but is not dominant.
 
