@@ -13,14 +13,14 @@ The REgain database structure is depicted below having the following tables: cla
 ![ERD](images/ERD.png)
 
 
--- EXECUTIVE SUMMARY --
+## EXECUTIVE SUMMARY ##
 
 Pharmacy spend is highly concentrated with specialty drugs driving most of the costs. While biosimilar adoption is moderate overall and improving among new starts, the top 1% remain concentrated on originator biologics, limiting near term cost savings.
 
 
 [![Dashboard](images/dashboard_overview.png)](https://app.powerbi.com/groups/me/dashboards/29181355-eb6e-41b6-a0f8-ce0fc6703299?experience=power-bi)
 
-INSIGHTS DEEP DIVE
+## INSIGHTS DEEP DIVE 
 
 COST STRUCTURE INSIGHTS (What is driving spend?)
 
