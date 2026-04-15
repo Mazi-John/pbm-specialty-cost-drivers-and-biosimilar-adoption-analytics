@@ -49,45 +49,45 @@ COST STRUCTURE INSIGHTS (What is driving spend?)
 
 COST CONCENTRATION INSIGHTS (Who is driving spend?) 
 
-Fact 3: There’s extreme cost concentration in the top 1% who wield 54% ($22.85m) of total spend.
+- Fact 3: There’s extreme cost concentration in the top 1% who wield 54% ($22.85m) of total spend.
 
-Inference: Cost risk is highly concentrated in a very small population.
+- Inference: Cost risk is highly concentrated in a very small population.
 
 [![images/Top_one_pct_claimant_portion_of_total_spend.png](images/Top_one_pct_claimant_portion_of_total_spend.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/988b8f68690bc5ce24c9?experience=power-bi)
 
-Fact 4: The top 1% spend is disproportionately tied to specialty molecules. For example, adalimumab alone accounts for $8.6m within the top 1% which has a total spend of $22.85m.
+- Fact 4: The top 1% spend is disproportionately tied to specialty molecules. For example, adalimumab alone accounts for $8.6m within the top 1% which has a total spend of $22.85m.
 
-Inference 1: The same molecules that are driving the total spend are also driving high-cost claimant spend. Therefore, targeted interventions will lead to a high ROI and broad policies will likely be inefficient.
+- Inference 1: The same molecules that are driving the total spend are also driving high-cost claimant spend. Therefore, targeted interventions will lead to a high ROI and broad policies will likely be inefficient.
 
-Inference 2: High-cost members are mostly biologics users.
+- Inference 2: High-cost members are mostly biologics users.
 
 [![images/adalimumab_portion_of_top_one_pct_claimants.png](images/adalimumab_portion_of_top_one_pct_claimants.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/03ce6e101391496ffe28?experience=power-bi)
 
 
 BIOSIMILAR ADOPTION INSIGHTS (Are biosimilars increasingly replacing originator biologics?)
 
-Fact 5: There was moderate overall biosimilar penetration with biosimilars accounting for 27.5% ($8.5m) of total specialty drug spend ($30.84m) and representing 19.9% of total spend. 
+- Fact 5: There was moderate overall biosimilar penetration with biosimilars accounting for 27.5% ($8.5m) of total specialty drug spend ($30.84m) and representing 19.9% of total spend. 
 
-Inference: Biosimilar adoption exists but is not dominant.
+- Inference: Biosimilar adoption exists but is not dominant.
 
 [![images/biosimilar_portion_of_total_specialty_drug_spend.png](images/biosimilar_portion_of_total_specialty_drug_spend.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/18a8c87eecf6dcc39f8a?experience=power-bi)
 
 [![images/biosimilar_portion_of_total_spend.png](images/biosimilar_portion_of_total_spend.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/18a8c87eecf6dcc39f8a?experience=power-bi)
 
-Fact 6: New start biosimilar adoption rate (33.7%) is stronger than overall biosimilar penetration (27.45%).
+- Fact 6: New start biosimilar adoption rate (33.7%) is stronger than overall biosimilar penetration (27.45%).
 
-Inference: Policies are influencing new prescribing behavior.
+- Inference: Policies are influencing new prescribing behavior.
 
 [![images/average_biosimilar_new_start_rate.png](images/average_biosimilar_new_start_rate.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/988b8f68690bc5ce24c9?experience=power-bi)
 
-Fact 7: The top 1% is almost entirely originator driven with biosimilars accounting for a minute 1.56% of the total 1% spend.
+- Fact 7: The top 1% is almost entirely originator driven with biosimilars accounting for a minute 1.56% of the total 1% spend.
 
-Inference: High-cost claimants are not switching.
+- Inference: High-cost claimants are not switching.
 
 [![images/biosimilar_portion_of_top_one_pct_spend.png](images/biosimilar_portion_of_top_one_pct_spend.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/03ce6e101391496ffe28?experience=power-bi)
 
 
-Inference Summary
+- Inference Summary
 
 Biosimilar strategies are working at initiation but not at the legacy population level. Since originator biologics are concentrated on high-cost claimants, current savings are limited despite improving new start adoption. In other words:
 
