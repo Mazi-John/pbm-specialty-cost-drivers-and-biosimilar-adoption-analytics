@@ -1,0 +1,35 @@
+Table Name: Clients
+
+Description:
+Contains client or plan sponsor information. Each row represents one client organization.
+
+Columns:
+
+1. client_id
+   - Data Type: Integer / String
+   - Description: Unique identifier for each client
+   - Notes: Primary key
+
+2. client_name
+   - Data Type: String
+   - Description: Name of the client organization
+
+3. industry
+   - Data Type: String
+   - Description: Industry sector for the client
+
+4. province
+   - Data Type: String
+   - Description: Province where the client is based
+
+5. lives
+   - Data Type: Integer
+   - Description: Number of covered members under the plan
+
+6. funding_type
+   - Data Type: String
+   - Description: Benefits funding arrangement
+   - Notes: Examples include ASO and Fully Insured
+
+Grain:
+One row per client.

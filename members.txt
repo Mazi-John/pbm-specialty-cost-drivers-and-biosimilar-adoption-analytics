@@ -1,0 +1,36 @@
+Table Name: Members
+
+Description:
+Contains member-level demographic. Each row represents one member.
+
+Columns:
+
+1. member_id
+   - Data Type: Integer 
+   - Description: Unique identifier for each member
+   - Notes: Primary key
+
+2. client_id
+   - Data Type: Integer 
+   - Description: Identifier for the associated client
+   - Notes: Foreign key to Clients table
+
+3. age
+   - Data Type: Integer
+   - Description: Age of the member in years
+
+4. gender
+   - Data Type: String
+   - Description: Gender of the member
+
+5. province
+   - Data Type: String
+   - Description: Province of residence
+
+6. autoimmune_flag
+   - Data Type: Boolean / Integer
+   - Description: Indicates whether the member has an autoimmune condition
+   - Notes: 1 = Yes, 0 = No
+
+Grain:
+One row per member.

@@ -1,0 +1,28 @@
+Table Name: Specialty Assignment
+
+Description:
+Contains member-level tags that identify if the member's claim is a specialty drug . Each row represents one member.
+
+Columns:
+
+1. member_id
+   - Data Type: Integer 
+   - Description: Unique identifier for each member
+   - Notes: Primary key
+
+2. client_id
+   - Data Type:  Integer
+   - Description: Identifier for the associated client
+   - Notes: Foreign key to Clients table
+
+3. province
+   - Data Type: String
+   - Description: Province of residence
+
+4. treated_flag
+   - Data Type: Boolean / Integer
+   - Description: Indicates whether the member is making claims for a specialty drug
+   - Notes: 1 = Yes, 0 = No
+
+Grain:
+One row per member.

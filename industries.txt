@@ -1,0 +1,14 @@
+Table Name: industries
+
+Description:
+Lookup table containing standardized industry values.
+
+Columns:
+
+1. industry
+   - Data Type: String
+   - Description: Name of the industry sector
+   - Notes: Primary key or unique value
+
+Grain:
+One row per industry.

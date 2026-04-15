@@ -1,0 +1,45 @@
+Table Name: Claims
+
+Description:
+Contains transactional prescription claim records. Each row represents one claim.
+
+Columns:
+
+1. claim_id
+   - Data Type: Integer / String
+   - Description: Unique identifier for each prescription claim
+   - Notes: Primary key
+
+2. member_id
+   - Data Type: Integer / String
+   - Description: Unique identifier for the member
+   - Notes: Foreign key to Members table
+
+3. drug_id
+   - Data Type: Integer / String
+   - Description: Unique identifier for the dispensed drug
+   - Notes: Foreign key to drug_master table
+
+4. fill_date
+   - Data Type: Date
+   - Description: Date the prescription was filled
+
+5. allowed_cost
+   - Data Type: Decimal(10,2)
+   - Description: Total reimbursable cost approved before rebates
+
+6. rebate_amount
+   - Data Type: Decimal(10,2)
+   - Description: Rebate amount applied to the claim
+
+7. net_cost
+   - Data Type: Decimal(10,2)
+   - Description: Final cost after rebates
+   - Notes: allowed_cost - rebate_amount
+
+8. days_supply
+   - Data Type: Integer
+   - Description: Number of days the medication is expected to last
+
+Grain:
+One row per prescription claim.

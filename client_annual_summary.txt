@@ -1,0 +1,38 @@
+Table Name: client_annual_summary
+
+Description:
+Contains annual summary metrics for each client. Each row represents one client summary for a reporting year.
+
+Columns:
+
+1. client_id
+   - Data Type: Integer / String
+   - Description: Unique identifier for the client
+   - Notes: Foreign key to Clients table
+
+2. total_members
+   - Data Type: Integer
+   - Description: Total number of covered members for the year
+
+3. total_spend
+   - Data Type: Decimal(14,2)
+   - Description: Total annual drug spend
+
+4. total_pmpm
+   - Data Type: Decimal(10,2)
+   - Description: Per member per month drug cost
+
+5. specialty_spend
+   - Data Type: Decimal(14,2)
+   - Description: Total annual spend on specialty drugs
+
+6. specialty_pmpm
+   - Data Type: Decimal(10,2)
+   - Description: PMPM cost for specialty drugs
+
+7. specialty_spend_pct
+   - Data Type: Decimal(5,2)
+   - Description: Percentage of total spend from specialty drugs
+
+Grain:
+One row per client per year.

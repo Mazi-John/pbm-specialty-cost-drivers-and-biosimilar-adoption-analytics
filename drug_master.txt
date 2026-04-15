@@ -1,0 +1,44 @@
+Table Name: drug_master
+
+Description:
+Contains reference data for drugs. Each row represents one drug.
+
+Columns:
+
+1. drug_id
+   - Data Type: Integer 
+   - Description: Unique identifier for each drug
+   - Notes: Primary key
+
+2. drug_name
+   - Data Type: String
+   - Description: Brand or generic drug name
+
+3. molecule
+   - Data Type: String
+   - Description: Active ingredient or molecular compound
+
+4. therapeutic_class
+   - Data Type: String
+   - Description: Therapeutic classification of the drug
+
+5. specialty_flag
+   - Data Type: Boolean / Integer
+   - Description: Indicates whether the drug is a specialty drug
+   - Notes: 1 = Yes, 0 = No
+
+6. biosimilar_flag
+   - Data Type: Boolean / Integer
+   - Description: Indicates whether the drug is a biosimilar
+   - Notes: 1 = Yes, 0 = No
+
+7. annual_cost
+   - Data Type: Decimal(12,2)
+   - Description: Estimated annual cost per patient
+
+8. rebate_pct
+   - Data Type: Decimal(5,2)
+   - Description: Expected manufacturer rebate percentage
+
+Grain:
+One row per drug.

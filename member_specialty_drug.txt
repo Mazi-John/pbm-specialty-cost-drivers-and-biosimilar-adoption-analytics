@@ -1,0 +1,20 @@
+Table Name: Member Specialty Drug
+
+Description:
+A table of members and the specialty drug each uses identified by its drug_id . Each row represents one member.
+
+Columns:
+
+1. member_id
+   - Data Type: Integer 
+   - Description: Unique identifier for each member
+   - Notes: Primary key
+
+2. drug_id
+   - Data Type: Integer 
+   - Description: Unique identifier for each drug
+   - Notes: Primary key
+
+
+Grain:
+One row per member.
