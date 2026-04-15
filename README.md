@@ -17,7 +17,8 @@ Pharmacy spend is highly concentrated with specialty drugs driving most of the c
 [![Dashboard](images/dashboard_overview.png)](https://app.powerbi.com/groups/me/dashboards/29181355-eb6e-41b6-a0f8-ce0fc6703299?experience=power-bi)
 
 INSIGHTS DEEP DIVE
-COST STRUCTURE INSIGHTS (What is driving spend?) 
+COST STRUCTURE INSIGHTS (What is driving spend?)
+
 Fact 1: Specialty drugs dominate the total spend, accounting for $30.84m of a total of $42.58m, representing 72.4% of total spend.
 Inference: Specialty drugs are a primary cost driver, not traditional retail drugs.
 
@@ -29,6 +30,7 @@ Inference: One molecule acts as a systemic cost driver
 [![images/adalimumab_portion_of_total_spend.png](images/adalimumab_portion_of_total_spend.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/03ce6e101391496ffe28?experience=power-bi)
 
 COST CONCENTRATION INSIGHTS (Who is driving spend?) 
+
 Fact 3: There’s extreme (greater than normal) cost concentration in the top 1% who wield 54% ($22.85m) of total spend.
 Inference: Cost risk is highly concentrated in a very small population.
 
