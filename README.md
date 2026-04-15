@@ -24,7 +24,7 @@ Pharmacy spend is highly concentrated with specialty drugs driving most of the c
 
 COST STRUCTURE INSIGHTS (What is driving spend?)
 
-## Fact 1: Specialty drugs dominate the total spend, accounting for $30.84m of a total of $42.58m, representing 72.4% of total spend.
+Fact 1 : Specialty drugs dominate the total spend, accounting for $30.84m of a total of $42.58m, representing 72.4% of total spend.
 
 Inference: Specialty drugs are a primary cost driver, not traditional retail drugs.
 
@@ -85,7 +85,7 @@ Theres a shot vs long term savings gap because new-start savings are not leading
 There’s a high concentration risk in the top 1% of members because they account for 54% of the total spend, hence, financial volatility risk is very high.
 There is a molecule dependency risk due to a heavy reliance on Adalimumab, therefore, any price shift will impact the entire plan
 
-RECOMMENDATIONS
+## RECOMMENDATIONS ##
 
 Since specialty drugs dominate over 70% of total spend, specialty program management should be prioritized rather than broad formulary tightening. Further, analytics and interventions should be focused on biologics, auto-immune therapies and oncology.
 
@@ -103,6 +103,6 @@ Implement molecule-level strategy: - start with Adalimumab, expand to eternacept
 
 Client specific targeting: - identify high risk employers; tailor interventions; and adjust funding strategy
 
-ASSUMPTION(S)
+## ASSUMPTION(S)
 
 All members were eligible for all 12months, i.e., they had an all-year-round enrolment. There was no mid-year add terms and no partial eligibility.
