@@ -45,7 +45,7 @@ Pharmacy spend is highly concentrated with specialty drugs driving 72.4% of the 
 
 ## INSIGHTS DETAIL 
 
-## COST STRUCTURE INSIGHTS (What is driving spend?)
+COST STRUCTURE INSIGHTS (What is driving spend?)
 
 - Fact 1 : Specialty drugs dominate the total spend, accounting for $30.84m of a total of $42.58m, representing 72.4% of total spend.
 
@@ -60,7 +60,7 @@ Pharmacy spend is highly concentrated with specialty drugs driving 72.4% of the 
 [![images/adalimumab_portion_of_total_spend.png](images/adalimumab_portion_of_total_spend.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/03ce6e101391496ffe28?experience=power-bi)
 
 
-## COST CONCENTRATION INSIGHTS (Who is driving spend?) 
+COST CONCENTRATION INSIGHTS (Who is driving spend?) 
 
 - Fact 3: There’s extreme cost concentration in the top 1% who wield 54% ($22.85m) of total spend.
 
@@ -77,7 +77,7 @@ Pharmacy spend is highly concentrated with specialty drugs driving 72.4% of the 
 [![images/adalimumab_portion_of_top_one_pct_claimants.png](images/adalimumab_portion_of_top_one_pct_claimants.png)](https://app.powerbi.com/groups/me/reports/b8873908-5e8a-4d1e-989c-f286374c165e/03ce6e101391496ffe28?experience=power-bi)
 
 
-## BIOSIMILAR ADOPTION INSIGHTS (Are biosimilars increasingly replacing originator biologics?)
+BIOSIMILAR ADOPTION INSIGHTS (Are biosimilars increasingly replacing originator biologics?)
 
 - Fact 5: There was moderate overall biosimilar penetration with biosimilars accounting for 27.5% ($8.5m) of total specialty drug spend ($30.84m) and representing 19.9% of total spend. 
 
