@@ -15,7 +15,7 @@ RADILAN, a pharmacy benefits manager established in 2022, seeks to make sense of
 
 ## DATA STRUCTURE ##
 
-The claims dataset covers only the year 2024, so it’s focused on intra-year trends and cross-sectional analysis, including month-over-month variation, cost concentration and biosimilar adoption/penetration patterns. In summary, the dataset has a total count of approximately 587,000 claims, 42,238 distinct members and 30 clients from 10 industries.
+The RADILAN claims dataset covers only the year 2024, so it’s focused on intra-year trends and cross-sectional analysis, including month-over-month variation, cost concentration and biosimilar adoption/penetration patterns. In summary, the dataset has a total count of approximately 587,000 claims, 42,238 distinct members and 30 clients from 10 industries.
 
 See an overview of the data dictionary in this [README.md](data_dictionary/README.md) link while detailed table-level documentation and definitions are available in the [data_dictionary](data_dictionary/) folder.
 
