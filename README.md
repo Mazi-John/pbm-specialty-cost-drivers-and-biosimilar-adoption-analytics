@@ -25,7 +25,7 @@ See an overview of the data dictionary in this [README.md](data_dictionary/READM
 
 This project uses a PostgreSQL database. The original dataset is not stored as flat files, but can be recreated using the provided SQL scripts.
 
-### Recreate the Database
+RECREATE THE DATABASE
 1. Run `/sql/ddl` scripts to create tables
 2. Load sample data from `/sql/dml/sample_data.sql`
 3. Run `/sql/etl` scripts to generate summary tables
