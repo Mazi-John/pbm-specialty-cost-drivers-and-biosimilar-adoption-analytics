@@ -1,5 +1,5 @@
 # pbm-specialty-cost-drivers-and-biosimilar-adoption-analytics
-SQL and Power BI analysis of pharmacy claims data to identify specialty drug cost drivers, quantify high-cost claimant concentration, and evaluate biosimilar adoption.
+This is an analysis of pharmacy claims data to identify specialty drug cost drivers, quantify high-cost claimant concentration, and evaluate biosimilar adoption.
 
 ## BUSINESS CONTEXT ##
 
