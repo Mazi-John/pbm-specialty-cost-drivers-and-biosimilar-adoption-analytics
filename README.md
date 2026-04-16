@@ -33,6 +33,8 @@ This project uses a PostgreSQL database. The original dataset is not stored as f
 
 
 
+
+
 ## EXECUTIVE SUMMARY ##
 
 Pharmacy spend is highly concentrated with specialty drugs driving 72.4% of the costs with originator biologics, especially Adalimumab, having a prominent share. While biosimilar adoption or penetration is moderate overall (27.47%) and improving among new starts (33.73%), the top 1% remain concentrated on originator biologics, limiting near term cost savings.
