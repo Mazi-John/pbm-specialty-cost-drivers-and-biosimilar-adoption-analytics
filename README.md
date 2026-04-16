@@ -27,6 +27,7 @@ Detailed table-level documentation is available in the [data_dictionary](data_di
 Pharmacy spend is highly concentrated with specialty drugs driving 72.4% of the costs with originator biologics, especially Adalimumab, having a prominent share. While biosimilar adoption or penetration is moderate overall (27.47%) and improving among new starts (33.73%), the top 1% remain concentrated on originator biologics, limiting near term cost savings.
 
 
+
 [![Dashboard](images/dashboard_overview.png)](https://app.powerbi.com/groups/me/dashboards/29181355-eb6e-41b6-a0f8-ce0fc6703299?experience=power-bi)
 
 ## INSIGHTS DETAIL 
