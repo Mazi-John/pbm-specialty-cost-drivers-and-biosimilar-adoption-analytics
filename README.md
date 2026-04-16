@@ -3,7 +3,7 @@ SQL and Power BI analysis of pharmacy claims data to identify specialty drug cos
 
 ## BUSINESS CONTEXT ##
 
-RADILAN, a pharmacy benefits manager established in 2022, seeks to make sense of its data on originator biologics and the biosimilars that have trailed them. RADILAN has made recent efforts to ensure the increasing adoption of biosimilars as replacement for originator specialty drugs and the company executives especially the chief financial officer and the director of clinical operations would like to receive feedback on how well the company's biosimilar adoption interventions have fared and gain insights regarding further changes that may be required. They seek to understand the biosimilar adoption rate, the new-start biosimilar adoption, molecules that carry most of the expenditure among other requirements and to get answers to the following questions:
+RADILAN, a pharmacy benefits manager established in 2022, seeks to make sense of its data on originator biologics and the biosimilars that have trailed them. It has made recent efforts to ensure the increasing adoption of biosimilars as replacement for originator specialty drugs, hence, the company executives especially the chief financial officer and the director of clinical operations would like to receive feedback on how well the company's biosimilar adoption interventions have fared and gain clarity regarding future measures that may be required. Therefore, they seek to understand the biosimilar adoption rate, the new-start biosimilar adoption rate, molecules that bear most of the expenditure among other requirements and to get answers to the following questions:
 
 - how well are prescribers doing with putting members on biosimilars when they start therapy?
 
@@ -15,9 +15,7 @@ RADILAN, a pharmacy benefits manager established in 2022, seeks to make sense of
 
 ## DATA STRUCTURE ##
 
-The dataset covers the year 2024, so it’s focused on intra-year trends and cross-sectional analysis, including month-over-month variation, cost concentration 
-## write more about the number of rows etc##
-and biosimilar adoption patterns.
+The claims dataset covers only the year 2024, so it’s focused on intra-year trends and cross-sectional analysis, including month-over-month variation, cost concentration and biosimilar adoption/penetration patterns. In summary, the dataset has a total count of approximately 587,000 claims, with 42,238 distinct memmbers and 30 clients from 10 industries.
 The RADILAN database structure is depicted below having the following tables: 
 claims: fact table with
 clients, drug_master, industries, member_specialty-drug, members, MemberAnnualSpend, client_annual_trend etc.
