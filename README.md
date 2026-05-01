@@ -3,7 +3,7 @@ This is an analysis of pharmacy claims data to identify specialty drug cost driv
 
 ## BUSINESS CONTEXT ##
 
-RADILAN, a pharmacy benefits manager established in 2022, seeks to make sense of its data on originator biologics and the biosimilars that have trailed them. It has made recent efforts to ensure the increasing adoption of biosimilars as replacement for originator specialty drugs, hence, the company executives especially the Chief Financial Officer and the Director of Claim Adjudication would like to receive feedback on how well the company's biosimilar adoption interventions have fared and gain clarity regarding future measures that may be required. Therefore, they seek to understand the biosimilar adoption rate, the new-start biosimilar adoption rate, molecules that drive most of the expenditure among other requirements and to get answers to the following questions:
+The Chief Financial Officer and the Director of Claims Adjudication at RADILAN, a Pharmacy Benefits Manager established in 2022, want to make sense of the company data on originator biologics and the biosimilars that have trailed them. Furhter, they have made previous efforts to ensure the increasing adoption of biosimilars as replacement for originator specialty drugs, hence, would like to receive feedback on how well the company's biosimilar adoption interventions have fared and gain clarity regarding future measures that may be required. Therefore, they seek to understand the biosimilar adoption rate, the new-start biosimilar adoption rate, molecules that drive most of the expenditure among other requirements and to get answers to the following questions:
 
 - how well are prescribers doing with putting members on biosimilars when they start therapy?
 
